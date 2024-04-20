@@ -1,0 +1,4 @@
+Requirement Gathering
+1)There will be symbols for each unique player
+2)n*n playing board
+3)n Players 
